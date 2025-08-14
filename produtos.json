@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Lana Del Rey",
+        "descricao": "Did you know that there is a tunnel under Ocean Blvd - Alternative / Dream Pop / Baroque Pop",
+        "preco": "R$ 89,90",
+        "imagem": "imagens/lana.jpg"
+    },
+    {
+        "nome": "Billie Eilish",
+        "descricao": "Happier Than Ever - Pop / Alternative",
+        "preco": "R$ 82,90",
+        "imagem": "imagens/billie.jpg"
+    },
+    {
+        "nome": "The Weeknd",
+        "descricao": "After Hours - R&B / Synthwave",
+        "preco": "R$ 84,90",
+        "imagem": "imagens/weeknd.jpg"
+    }
+]
