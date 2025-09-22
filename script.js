@@ -29,4 +29,6 @@ function comprar(nomeProduto) {
         confirmButtonText: 'Fechar',
         confirmButtonColor: '#222'
     });
+
 }
+console.log(produtos.json)
