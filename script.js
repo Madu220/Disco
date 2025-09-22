@@ -1,8 +1,8 @@
-// Carregar produtos via fetch
 fetch('produtos.json')
     .then(res => res.json())
     .then(produtos => {
         const container = document.getElementById('produtos-container');
+        console.log(produtos);
 
         produtos.forEach(produto => {
             const card = document.createElement('div');
@@ -29,6 +29,4 @@ function comprar(nomeProduto) {
         confirmButtonText: 'Fechar',
         confirmButtonColor: '#222'
     });
-
 }
-console.log(produtos.json)
